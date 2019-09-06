@@ -16,14 +16,6 @@
     </url>
 
     <url>
-        <loc>https://news.mkttalk.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.mkttalk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,6 +25,14 @@
 
     <url>
         <loc>https://news.mkttalk.com/wordpress-lesson/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.mkttalk.com/wordpress-hosting-recommendation/</loc>
         <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://news.mkttalk.com/china-website-loding-speed-slow/</loc>
+        <loc>https://news.mkttalk.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +88,7 @@
     </url>
 
     <url>
-        <loc>https://news.mkttalk.com/all-wordpress-recommendation-wptalk/</loc>
+        <loc>https://news.mkttalk.com/china-website-loding-speed-slow/</loc>
         <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

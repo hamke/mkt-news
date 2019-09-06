@@ -2,126 +2,126 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://news.wp-talk.com</loc>
+        <loc>https://news.mkttalk.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
-        <lastmod>2019-09-05T15:02:44.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-developers-must-plugins/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2019-09-05T14:04:39.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-hosting-recommendation/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-faq-for-users/</loc>
-        <lastmod>2019-09-05T14:02:39.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-install-free-hosting-000webhost/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-lesson/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-install-local-computer-bitnami/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-rest-api-fetch-content/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-faq-for-users/</loc>
+        <lastmod>2019-09-06T04:16:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/install-wordpress-local-webserver-wptalk/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/themeforest-wordpress-free-month-themes/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/china-website-loding-speed-slow/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-119/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-child-theme-builder-usage/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <loc>https://news.mkttalk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <lastmod>2019-09-06T04:16:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
